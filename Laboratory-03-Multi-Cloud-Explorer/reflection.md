@@ -1,0 +1,8 @@
+# Mission 3 Reflection
+
+The cloud platform that impressed me the most is Microsoft Azure. I find Azure interesting because it has many services and it works well with Microsoft products. I also learned that Azure can be useful for organizations that already use Windows Server, Microsoft 365, and other Microsoft technologies.
+AWS, Azure, and Google Cloud have many similarities. All three provide services for virtual machines, storage, databases, networking, security, and identity management. They also have regions and other infrastructure that help provide better availability. Even if their service names are different, many of their services can do similar tasks.
+Business requirements are important when choosing a cloud platform. A company should look at its budget, existing systems, security needs, applications, users, and future growth. For example, a university that already uses Microsoft products can benefit from Azure. An AI research company may prefer Google Cloud because of its AI and data services.
+Acting as a Cloud Solutions Consultant helped me understand that choosing a cloud provider is not just about picking the most popular one. I need to first understand what the client needs and then compare the available cloud services. This helped me see how cloud computing can be connected to real business problems.
+My GitHub Cloud Computing Portfolio also improved after this mission. I learned how to organize research files, write Markdown documentation, compare cloud services, and make recommendations. I also became more familiar with AWS, Azure, and GCP.
+Overall, this activity helped me understand that there is no single cloud provider that is best for every situation. The right choice depends on the needs and goals of the organization.
